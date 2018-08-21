@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontWeight": "600",
+    "editor.lineHeight": 27,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false
+}

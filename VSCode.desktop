@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VSCode
+Comment=Multi-platform code editor for Linux
+Exec=/home/fst/dev/software/VSCode-linux-x64/code
+Icon=/home/fst/dev/software/VSCode-linux-x64/resources/app/resources/linux/code.png
+Type=Application
+StartupNotify=true
+Categories=TextEditor;Development;Utility;
+MimeType=text/plain;
